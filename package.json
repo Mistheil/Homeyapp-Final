@@ -2,7 +2,7 @@
   "name": "homeyapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Mistheil.github.io",
+  "homepage": "https://mistheil.github.io",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
