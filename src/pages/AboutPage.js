@@ -56,7 +56,7 @@ export default function AboutPage() {
             </div>
 
             <div className="containerProfDetail">
-                <a href={`https://github.com/Mistheil/rplbktugas5-kel05`}
+                <a href={`https://github.com/Mistheil/Homeyapp-Final`}
                     target="_blank"
                     rel="noreferrer"
                 >
@@ -67,7 +67,7 @@ export default function AboutPage() {
 
             <div className="containerProfDetail">
                 <p id="profDetail">Aplikasi ini dibuat untuk Tugas Akhir</p>
-                <p id="profDetail">Praktikum Mobile Device Programming 2021</p>
+                <p id="profDetail">Praktikum Rekayasa Perangkat Lunak Berbasis Komponen 2022</p>
                 <p id="profDetail">Jurusan Teknik Komputer</p>
                 <p id="profDetail">Fakultas Teknik</p>
                 <p id="profDetail">Universitas Diponegoro</p>
